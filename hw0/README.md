@@ -68,6 +68,6 @@ $ cast --help
 ###Figure
 
 
-![Example Image](0001.png)
+![Example Image](F2.png)
 
-![Example Image](0002.png)
+![Example Image](F3.png)
