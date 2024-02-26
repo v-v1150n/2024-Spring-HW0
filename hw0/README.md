@@ -67,6 +67,7 @@ $ cast --help
 
 ###Figure
 
+![Example Image](F1.png)
 
 ![Example Image](F2.png)
 
